@@ -1,0 +1,18 @@
+$color: green;
+
+body {
+  display: flex;
+  transform: translateY(100px);
+}
+
+.image1 {
+  width: 20px;
+  height: 20px;
+  background: url('./test.png');
+}
+
+.image2 {
+  width: 200px;
+  height: 200px;
+  background: url('./map.jpg');
+}
